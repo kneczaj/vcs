@@ -1,0 +1,6 @@
+[submodule "config"]
+	path = config
+	url = git@github.com:kneczaj/vsc-config.git
+[submodule "themeDark"]
+	path = themeDark
+	url = git@github.com:kneczaj/vcs-theme-dark.git
