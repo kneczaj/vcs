@@ -2,8 +2,8 @@
 
 # Check if 'code' command exists
 if ! command -v code &> /dev/null; then
-    echo "Install Visual Studio code before. Skipping."
-    exit 1
+    echo "Installing Visual Studio code..."
+    brew install --cask visual-studio-code
 fi
 
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
