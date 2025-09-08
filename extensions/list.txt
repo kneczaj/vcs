@@ -1,0 +1,16 @@
+angelomollame.conflict-squeezer
+biomejs.biome
+christian-kohler.npm-intellisense
+eamodio.gitlens
+graphql.vscode-graphql
+graphql.vscode-graphql-syntax
+kneczaj.kneczaj-theme-dark
+mobalic.jetbrains-dark-theme
+ms-azuretools.vscode-containers
+ms-vscode-remote.remote-containers
+pkief.material-icon-theme
+rafamel.subtle-brackets
+sammons.ts-import-assistance
+steoates.autoimport
+yoavbls.pretty-ts-errors
+yzhang.markdown-all-in-one
