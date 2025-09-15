@@ -1,4 +1,5 @@
 angelomollame.conflict-squeezer
+be5invis.vscode-custom-css
 biomejs.biome
 christian-kohler.npm-intellisense
 eamodio.gitlens
